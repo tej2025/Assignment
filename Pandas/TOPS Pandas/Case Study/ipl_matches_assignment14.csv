@@ -1,0 +1,14 @@
+id,season,team1,team2,winner,win_by_runs,win_by_wickets
+1,2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,35,0
+2,2017,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,0,7
+3,2017,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,15,0
+4,2018,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,30,0
+5,2018,Mumbai Indians,Delhi Daredevils,Mumbai Indians,20,0
+6,2018,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,3
+7,2019,Mumbai Indians,Delhi Capitals,Mumbai Indians,40,0
+8,2019,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,5
+9,2020,Mumbai Indians,Delhi Capitals,Mumbai Indians,57,0
+10,2020,Delhi Capitals,Kings XI Punjab,Delhi Capitals,0,6
+11,2021,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,18,0
+12,2021,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0,4
+13,2021,Royal Challengers Bangalore,Chennai Super Kings,,0,0
